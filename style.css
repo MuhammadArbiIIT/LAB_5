@@ -40,9 +40,9 @@ p {
 }
 
 .container {
-    width: 70%;
+    padding-top:50px;
+    width: 55%;
     margin: 0 auto;
-    padding: 1px;
 }
 
 .flex {
@@ -69,7 +69,7 @@ p {
 }
 
 .item_three {
-	padding-top: 325px;
+	padding-top: 255px;
 	width: 30%;
     text-align: center;
     font-family: Oswald;
@@ -79,7 +79,7 @@ p {
 }
 
 .item_four { 
-    padding-top: 418px;
+    padding-top: 328px;
     width: 15%;
     text-align: center;
     font-family: Oswald;
@@ -90,8 +90,4 @@ p {
 
 .img_size {
     width: 100%;
-}
-
-.subheader {
-    margin: 0 auto;
 }
