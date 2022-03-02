@@ -10,3 +10,17 @@
 	background-repeat: no-repeat;
 	height: 100vh;
 }
+
+h1 {
+	font-family: Redressed;
+	font-size: 100px;
+	color: black;
+	text-align: center;
+}
+
+p {
+	font-family: Oswald;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+}
