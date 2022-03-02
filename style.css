@@ -46,20 +46,40 @@ p {
 
 .txt_one {
     width: 80%;
+    text-align: center;
+    font-family: Oswald;
+	font-size: 30px;
+	color: black;
+	text-align: center;
 }
 
 .txt_two {
     width: 80%;
+    text-align: center;
+    font-family: Oswald;
+	font-size: 30px;
+	color: black;
+	text-align: center;
 }
 
 .item_three {
 	padding-top: 464px;
 	width: 30%;
+    text-align: center;
+    font-family: Oswald;
+	font-size: 30px;
+	color: black;
+	text-align: center;
 }
 
 .item_four { 
     padding-top: 597px;
     width: 15%;
+    text-align: center;
+    font-family: Oswald;
+	font-size: 30px;
+	color: black;
+	text-align: center;
 }
 
 .img_size {
