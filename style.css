@@ -45,23 +45,27 @@ p {
 }
 
 .txt_one {
-    width: 100%;
+    width: 80%;
 }
 
 .txt_two {
-    width: 100%;
+    width: 80%;
 }
 
 .item_three {
-	
-	width: 40%;
+	padding-top: 464px;
+	width: 30%;
 }
 
 .item_four { 
-    
-    width: 30%;
+    padding-top: 597px;
+    width: 15%;
 }
 
 .img_size {
     width: 100%;
+}
+
+.subheader {
+    margin: 0 auto;
 }
