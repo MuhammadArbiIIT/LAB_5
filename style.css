@@ -99,3 +99,6 @@ p {
 	text-align: center;
 }
 
+.flex, .h6 {
+    font-size: 1px;
+}
