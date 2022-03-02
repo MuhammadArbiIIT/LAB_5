@@ -39,3 +39,7 @@ p {
     margin-bottom: 30px;
 }
 
+.flex {
+    display: flex;
+    justify-content: space-around; 
+}
