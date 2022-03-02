@@ -8,7 +8,7 @@
 	background-image: url("/media/stars.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 200vh;
+	height: 140vh;
 }
 
 h1 {
@@ -26,7 +26,6 @@ p {
 }
 
 .table-data {
-	margin-top: 50px;
 	font-family: Oswald;
 	font-size: 15px;
 	color: whitesmoke;
@@ -90,4 +89,12 @@ p {
 
 .img_size {
     width: 100%;
+}
+
+.table_header {
+    padding-top: 50px; 
+    font-size: 30px;
+    font-family: Redressed;
+	color: whitesmoke;
+	text-align: center;
 }
