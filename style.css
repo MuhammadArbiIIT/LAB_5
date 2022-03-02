@@ -5,12 +5,12 @@
 }
 
 .background-image {
-	background-image: url("/media/stars.jpg");
+	background-image: url("media/stars.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 140vh;
 }
-
+ 
 h1 {
 	font-family: Redressed;
 	font-size: 100px;
