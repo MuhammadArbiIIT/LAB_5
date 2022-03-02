@@ -43,3 +43,25 @@ p {
     display: flex;
     justify-content: space-around; 
 }
+
+.txt_one {
+    width: 100%;
+}
+
+.txt_two {
+    width: 100%;
+}
+
+.item_three {
+	
+	width: 40%;
+}
+
+.item_four { 
+    
+    width: 30%;
+}
+
+.img_size {
+    width: 100%;
+}
